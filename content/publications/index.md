@@ -11,7 +11,7 @@ show_title_as_headline: false
 ---
 # Published Articles
 
-**†Buabang, E. K.**, *†Köster, M., Boddez, Y., Van Dessel, P., De Houwer, J., & Moors, A. (2023). 
+**†Buabang, E. K.**, †Köster, M., Boddez, Y., Van Dessel, P., De Houwer, J., & Moors, A. (2023). 
 A goal-directed account of action slips: The reliance on old contingencies.
 *Journal of Experimental Psychology: General*.
 [<i class="fas fa-file-pdf"></i>](https://raw.githubusercontent.com/EKBuabang/eike-hugo/main/themes/hugo-apero/static/publications/Buabang_et_al.(2023)JEPG.pdf)

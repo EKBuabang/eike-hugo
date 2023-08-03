@@ -3,7 +3,7 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi there! Welcome.
+  Hi there! Welcome
 ---
 
 <!-- this is a subheadline -->
@@ -15,6 +15,6 @@ My primary research interest are the **core mechanisms** underlying habits. In m
 
 Whereas habits can be beneficial, some research suggests that over-relying on habits can lead to everyday **action slips** (e.g., entering an old password), to **impulsive behaviours** (e.g., eating unhealthy foods), and on the extreme, **compulsive behaviours** (e.g., substance use or checking locks repetitively). 
 
-A key characteristic of these behaviours is that they are often against people's explicit beliefs and goals. In my work, I try to explain these seemingly contradictory behaviours with a **goal-directed framework**. in which they occur when people’s belief and goal representations are incorrect or fail to update, or when competing representations exist.
+A key characteristic of these **bad habits** is that they are often against people's explicit beliefs and goals. I try to explain these seemingly contradictory behaviours with a goal-directed framework. For example, these behaviours may occur when people’s **beliefs and goals** are **incorrect** or **fail to update**, or when **competing beliefs and goals** exist.
 
 Through my work, I hope to offer insights into habit formation and expression, thereby helping to **make good habits and break bad habits**.
