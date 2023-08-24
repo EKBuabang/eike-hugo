@@ -3,18 +3,14 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi there! Welcome
 ---
-
 <!-- this is a subheadline -->
-# Research Interests
+# About Me
 
-Habits play an important role in our lives. They form with repetition and allow us to interact with our environment in a cognitively efficient way. **Good habits** contribute to increased **productivity**, improved **physical health**, and enhanced **mental well-being**.
+ I am a postdoctoral researcher in the  [Gillan Lab](https://gillanlab.com) working on the project “Making and Breaking a Habit”.
 
-My primary research interest are the **core mechanisms** underlying habits. In my view, habits result from **goal-directed processes** that allow us to automatically represent potential beliefs and goals when presented with a familiar context.
-
-Whereas habits can be beneficial, some research suggests that over-relying on habits can lead to everyday **action slips** (e.g., entering an old password), to **impulsive behaviours** (e.g., eating unhealthy foods), and on the extreme, **compulsive behaviours** (e.g., substance use or checking locks repetitively). 
-
-A key characteristic of these **bad habits** is that they are often against people's explicit beliefs and goals. I try to explain these seemingly contradictory behaviours with a goal-directed framework. For example, these behaviours may occur when people’s **beliefs and goals** are **incorrect** or **fail to update**, or when **competing beliefs and goals** exist.
-
-Through my work, I hope to offer insights into habit formation and expression, thereby helping to **make good habits and break bad habits**.
+  I completed my PhD at KU Leuven supervised by Prof. [Agnes Moors](https://ppw.kuleuven.be/cscp/people/00012693), and co-supervised by Prof. Jan De Houwer and Prof. Marcel Brass. In my dissertation “The Role of Goal-Directed Processes in the Causation of Seemingly Habitual Behavior”, I investigated and formalized goal-directed accounts of behaviors that we typically consider habitual. My dissertation was runner up for the Belgian Association for Psychological Sciences best PhD thesis award 2023.
+  
+  Next to my PhD, I was selected as research supervisor in the [Junior Researcher Programme](https://jrp.pscholars.org) with my project "The poverty trap: A multinational study examining the relation between poverty, stress, financial literacy, and decision making".
+  
+  Previously I graduated cum laude with an M.Sc. (research) in Social & Organisational Psychology from Leiden University, and a B.Sc. in Psychology from the University of Groningen.

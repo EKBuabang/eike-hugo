@@ -2,7 +2,7 @@
 action_label: About Me &rarr;
 action_link: /about
 action_type: text
-description: I'm a postdoctoral research fellow in the [Gillan Lab](https://gillanlab.com) at Trinity College Dublin. <br><br>  My primary research interest is the **cognitive neuroscience of habits**. I am particularly interested in understanding why people engage in behaviours that are against their explicit beliefs and goals such as **action slips** (e.g., entering an old password), **impulsive behaviours** (e.g., eating unhealthy foods), and **compulsive behaviours** (e.g., substance use or checking locks repetitively).
+description: I am a postdoctoral research fellow in the [Gillan Lab](https://gillanlab.com) at Trinity College Dublin. <br><br>  My primary research interest is the **cognitive neuroscience of habits**. In my work I investigate the underlying mental and neural representations of habits, and explore everyday and clinical applications <br><br> Get in touch if you are interested in exploring collaborative opportunities. <br><br> <i class="fas fa-envelope"></i> eike.buabang@tcd.ie
 image_left: true
 images:
 - img/headshot.png

@@ -9,7 +9,7 @@ output:
 layout: standard # standard or wide-body
 show_title_as_headline: false
 ---
-# Published Articles
+# Peer-Reviewed Publications
 
 **†Buabang, E. K.**, †Köster, M., Boddez, Y., Van Dessel, P., De Houwer, J., & Moors, A. (2023). 
 A goal-directed account of action slips: The reliance on old contingencies.
@@ -55,10 +55,15 @@ Study Protocol on Cognitive Performance in Bulgaria, Croatia, and The Netherland
 *Frontiers in Psychology*.
 [<i class="fas fa-file-pdf"></i>](https://raw.githubusercontent.com/EKBuabang/eike-hugo/main/themes/hugo-apero/static/publications/Jakob_et_al(2016)FRONT_PSYCHOL.pdf)
 
-# Preprints/Under Review
+# Preprints
 
-**†Buabang, E. K.**, †Köster, M., Hogarth, L., & Moors, A. (2023). Poor Reliability and Validity of Habit Effects in Substance Use and Novel Insights From a Goal-Directed Perspective. *PsyArXiv*.
+**†Buabang, E. K.**, †Köster, M., Hogarth, L., & Moors, A. (2023). Poor Reliability and Validity of Habit Effects in Substance Use and Novel Insights From a Goal-Directed Perspective.
+*PsyArXiv*.
 [<i class="fas fa-link"></i>](https://psyarxiv.com/79ykb/)
+
+Van Dessel, P., Boddez, Y., De Houwer, J., **Buabang, E. K.**, Moors, A., & Köster, M. (2023). Exploring the Role of Goal-Dependent Processes in Action Slips under Time Pressure.
+ *OSF Preprints*.
+[<i class="fas fa-link"></i>](https://doi.org/10.31219/osf.io/mdt4n)
 
 Ruggeri, K., ..., **Buabang, E. K.**, ..., & Willer, R. (2022). Evaluating expectations from social and behavioral science about COVID-19 and lessons for the next pandemic.
 *PsyArXiv*.
